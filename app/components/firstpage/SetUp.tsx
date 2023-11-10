@@ -1,11 +1,5 @@
 import Header from "../header/Header";
 import Sidebar from "../sidebar/Sidebar";
-<head>
-  <script
-    src="https://api.fontshare.com/v2/css?f[]=clash-display@200&display=swap"
-    rel="stylesheet"
-  ></script>
-</head>;
 
 export default function SetUp() {
   return (
