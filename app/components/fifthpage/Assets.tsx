@@ -16,7 +16,7 @@ export default function Assets() {
                 Setup
               </a>
               <a href="/userdetails" className="hover-list40">
-                User details
+              User details
               </a>
               <a href="/tasks" className="hover-list0">
                 Tasks
