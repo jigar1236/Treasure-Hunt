@@ -17,7 +17,7 @@ export default function Prizes() {
               <a href="/" className="hover-list0">
                 Setup
               </a>
-              <a href="/userdetails" className="hover-list40">
+              <a href="/userdetails" className="hover-list0">
                 User details
               </a>
               <a href="/tasks" className="hover-list">
